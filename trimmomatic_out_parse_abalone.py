@@ -73,7 +73,6 @@ def get_sample_dictionary(basedir): # do I need basedir if I'm pulling sample na
 					print sample
 					for i in range(0,8):
 						next_line=outfile.next()
-						print next_line
 						line_data=next_line.split()
 						if line_data[0].startswith("Input"):
 							num_reads_input=line_data[3]
