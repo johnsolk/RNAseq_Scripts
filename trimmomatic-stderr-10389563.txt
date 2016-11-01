@@ -1,0 +1,569 @@
+Module slurm/16.05.5 loaded 
+Module openmpi/2.0.1 loaded 
+TrimmomaticPE: Started with arguments:
+ 134_S25_L001_R1_001.fastq.gz 134_S25_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//134_S25_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//134_S25_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 3607773 Both Surviving: 2734282 (75.79%) Forward Only Surviving: 873448 (24.21%) Reverse Only Surviving: 0 (0.00%) Dropped: 43 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 139_S11_L001_R1_001.fastq.gz 139_S11_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//139_S11_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//139_S11_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4962540 Both Surviving: 3726025 (75.08%) Forward Only Surviving: 1236464 (24.92%) Reverse Only Surviving: 0 (0.00%) Dropped: 51 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 144_S12_L001_R1_001.fastq.gz 144_S12_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//144_S12_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//144_S12_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4987467 Both Surviving: 3550145 (71.18%) Forward Only Surviving: 1437266 (28.82%) Reverse Only Surviving: 0 (0.00%) Dropped: 56 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 149_S26_L001_R1_001.fastq.gz 149_S26_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//149_S26_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//149_S26_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4865896 Both Surviving: 3843446 (78.99%) Forward Only Surviving: 1022378 (21.01%) Reverse Only Surviving: 0 (0.00%) Dropped: 72 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 14_S9_L001_R1_001.fastq.gz 14_S9_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//14_S9_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//14_S9_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4367414 Both Surviving: 2969315 (67.99%) Forward Only Surviving: 1398060 (32.01%) Reverse Only Surviving: 0 (0.00%) Dropped: 39 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 19_S10_L001_R1_001.fastq.gz 19_S10_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//19_S10_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//19_S10_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4871998 Both Surviving: 3442374 (70.66%) Forward Only Surviving: 1429590 (29.34%) Reverse Only Surviving: 0 (0.00%) Dropped: 34 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 214_S13_L001_R1_001.fastq.gz 214_S13_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//214_S13_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//214_S13_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4567900 Both Surviving: 3637843 (79.64%) Forward Only Surviving: 929977 (20.36%) Reverse Only Surviving: 0 (0.00%) Dropped: 80 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 224_S27_L001_R1_001.fastq.gz 224_S27_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//224_S27_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//224_S27_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4446823 Both Surviving: 3402958 (76.53%) Forward Only Surviving: 1043786 (23.47%) Reverse Only Surviving: 0 (0.00%) Dropped: 79 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 229_S28_L001_R1_001.fastq.gz 229_S28_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//229_S28_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//229_S28_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 3892306 Both Surviving: 3198428 (82.17%) Forward Only Surviving: 693832 (17.83%) Reverse Only Surviving: 0 (0.00%) Dropped: 46 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 234_S29_L001_R1_001.fastq.gz 234_S29_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//234_S29_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//234_S29_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4766816 Both Surviving: 3933630 (82.52%) Forward Only Surviving: 833126 (17.48%) Reverse Only Surviving: 0 (0.00%) Dropped: 60 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 239_S30_L001_R1_001.fastq.gz 239_S30_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//239_S30_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//239_S30_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4277877 Both Surviving: 3803550 (88.91%) Forward Only Surviving: 474283 (11.09%) Reverse Only Surviving: 0 (0.00%) Dropped: 44 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 264_S1_L001_R1_001.fastq.gz 264_S1_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//264_S1_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//264_S1_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4477894 Both Surviving: 3205639 (71.59%) Forward Only Surviving: 1272187 (28.41%) Reverse Only Surviving: 0 (0.00%) Dropped: 68 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 269_S2_L001_R1_001.fastq.gz 269_S2_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//269_S2_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//269_S2_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5298119 Both Surviving: 4144042 (78.22%) Forward Only Surviving: 1154036 (21.78%) Reverse Only Surviving: 0 (0.00%) Dropped: 41 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 274_S3_L001_R1_001.fastq.gz 274_S3_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//274_S3_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//274_S3_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4270398 Both Surviving: 2369658 (55.49%) Forward Only Surviving: 1900685 (44.51%) Reverse Only Surviving: 0 (0.00%) Dropped: 55 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 279_S4_L001_R1_001.fastq.gz 279_S4_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//279_S4_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//279_S4_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4203877 Both Surviving: 3226312 (76.75%) Forward Only Surviving: 977532 (23.25%) Reverse Only Surviving: 0 (0.00%) Dropped: 33 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 304_S31_L001_R1_001.fastq.gz 304_S31_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//304_S31_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//304_S31_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5053111 Both Surviving: 4212469 (83.36%) Forward Only Surviving: 840594 (16.64%) Reverse Only Surviving: 0 (0.00%) Dropped: 48 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 309_S32_L001_R1_001.fastq.gz 309_S32_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//309_S32_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//309_S32_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5359479 Both Surviving: 4334865 (80.88%) Forward Only Surviving: 1024569 (19.12%) Reverse Only Surviving: 0 (0.00%) Dropped: 45 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 314_S33_L001_R1_001.fastq.gz 314_S33_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//314_S33_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//314_S33_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4552980 Both Surviving: 3781184 (83.05%) Forward Only Surviving: 771763 (16.95%) Reverse Only Surviving: 0 (0.00%) Dropped: 33 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 319_S34_L001_R1_001.fastq.gz 319_S34_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//319_S34_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//319_S34_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5569330 Both Surviving: 4781293 (85.85%) Forward Only Surviving: 787983 (14.15%) Reverse Only Surviving: 0 (0.00%) Dropped: 54 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 324_S35_L001_R1_001.fastq.gz 324_S35_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//324_S35_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//324_S35_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5287096 Both Surviving: 4760249 (90.04%) Forward Only Surviving: 526810 (9.96%) Reverse Only Surviving: 0 (0.00%) Dropped: 37 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 329_S36_L001_R1_001.fastq.gz 329_S36_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//329_S36_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//329_S36_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5179805 Both Surviving: 4551095 (87.86%) Forward Only Surviving: 628659 (12.14%) Reverse Only Surviving: 0 (0.00%) Dropped: 51 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 334_S49_L001_R1_001.fastq.gz 334_S49_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//334_S49_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//334_S49_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5189401 Both Surviving: 4466988 (86.08%) Forward Only Surviving: 722346 (13.92%) Reverse Only Surviving: 0 (0.00%) Dropped: 67 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 339_S50_L001_R1_001.fastq.gz 339_S50_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//339_S50_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//339_S50_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5341270 Both Surviving: 4509386 (84.43%) Forward Only Surviving: 831822 (15.57%) Reverse Only Surviving: 0 (0.00%) Dropped: 62 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 364_S5_L001_R1_001.fastq.gz 364_S5_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//364_S5_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//364_S5_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5277042 Both Surviving: 3955634 (74.96%) Forward Only Surviving: 1321356 (25.04%) Reverse Only Surviving: 0 (0.00%) Dropped: 52 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 369_S14_L001_R1_001.fastq.gz 369_S14_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//369_S14_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//369_S14_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 7764715 Both Surviving: 6717151 (86.51%) Forward Only Surviving: 1047480 (13.49%) Reverse Only Surviving: 0 (0.00%) Dropped: 84 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 374_S15_L001_R1_001.fastq.gz 374_S15_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//374_S15_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//374_S15_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4525975 Both Surviving: 3484149 (76.98%) Forward Only Surviving: 1041758 (23.02%) Reverse Only Surviving: 0 (0.00%) Dropped: 68 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 464_S51_L001_R1_001.fastq.gz 464_S51_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//464_S51_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//464_S51_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5398966 Both Surviving: 4529938 (83.90%) Forward Only Surviving: 868973 (16.10%) Reverse Only Surviving: 0 (0.00%) Dropped: 55 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 469_S52_L001_R1_001.fastq.gz 469_S52_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//469_S52_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//469_S52_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4998039 Both Surviving: 4148887 (83.01%) Forward Only Surviving: 849099 (16.99%) Reverse Only Surviving: 0 (0.00%) Dropped: 53 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 474_S53_L001_R1_001.fastq.gz 474_S53_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//474_S53_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//474_S53_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5089837 Both Surviving: 4105022 (80.65%) Forward Only Surviving: 984746 (19.35%) Reverse Only Surviving: 0 (0.00%) Dropped: 69 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 479_S54_L001_R1_001.fastq.gz 479_S54_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//479_S54_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//479_S54_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4949724 Both Surviving: 4074333 (82.31%) Forward Only Surviving: 875312 (17.68%) Reverse Only Surviving: 0 (0.00%) Dropped: 79 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 484_S55_L001_R1_001.fastq.gz 484_S55_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//484_S55_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//484_S55_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4942101 Both Surviving: 3911757 (79.15%) Forward Only Surviving: 1030290 (20.85%) Reverse Only Surviving: 0 (0.00%) Dropped: 54 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 489_S56_L001_R1_001.fastq.gz 489_S56_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//489_S56_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//489_S56_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5483803 Both Surviving: 4399034 (80.22%) Forward Only Surviving: 1084693 (19.78%) Reverse Only Surviving: 0 (0.00%) Dropped: 76 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 494_S57_L001_R1_001.fastq.gz 494_S57_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//494_S57_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//494_S57_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4273898 Both Surviving: 3560625 (83.31%) Forward Only Surviving: 713236 (16.69%) Reverse Only Surviving: 0 (0.00%) Dropped: 37 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 499_S58_L001_R1_001.fastq.gz 499_S58_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//499_S58_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//499_S58_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5555006 Both Surviving: 4585325 (82.54%) Forward Only Surviving: 969625 (17.45%) Reverse Only Surviving: 0 (0.00%) Dropped: 56 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 4_S7_L001_R1_001.fastq.gz 4_S7_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//4_S7_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//4_S7_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 7282694 Both Surviving: 5312245 (72.94%) Forward Only Surviving: 1970393 (27.06%) Reverse Only Surviving: 0 (0.00%) Dropped: 56 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 504_S6_L001_R1_001.fastq.gz 504_S6_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//504_S6_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//504_S6_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5024401 Both Surviving: 3828753 (76.20%) Forward Only Surviving: 1195601 (23.80%) Reverse Only Surviving: 0 (0.00%) Dropped: 47 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 509_S16_L001_R1_001.fastq.gz 509_S16_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//509_S16_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//509_S16_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5296914 Both Surviving: 4664115 (88.05%) Forward Only Surviving: 632765 (11.95%) Reverse Only Surviving: 0 (0.00%) Dropped: 34 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 514_S17_L001_R1_001.fastq.gz 514_S17_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//514_S17_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//514_S17_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5536908 Both Surviving: 5175921 (93.48%) Forward Only Surviving: 360930 (6.52%) Reverse Only Surviving: 0 (0.00%) Dropped: 57 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 519_S59_L001_R1_001.fastq.gz 519_S59_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//519_S59_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//519_S59_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5779282 Both Surviving: 4755241 (82.28%) Forward Only Surviving: 1023985 (17.72%) Reverse Only Surviving: 0 (0.00%) Dropped: 56 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 524_S60_L001_R1_001.fastq.gz 524_S60_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//524_S60_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//524_S60_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4841313 Both Surviving: 3944849 (81.48%) Forward Only Surviving: 896413 (18.52%) Reverse Only Surviving: 0 (0.00%) Dropped: 51 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 529_S71_L001_R1_001.fastq.gz 529_S71_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//529_S71_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//529_S71_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 6019122 Both Surviving: 4525713 (75.19%) Forward Only Surviving: 1493357 (24.81%) Reverse Only Surviving: 0 (0.00%) Dropped: 52 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 534_S72_L001_R1_001.fastq.gz 534_S72_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//534_S72_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//534_S72_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5295328 Both Surviving: 4130102 (78.00%) Forward Only Surviving: 1165160 (22.00%) Reverse Only Surviving: 0 (0.00%) Dropped: 66 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 559_S18_L001_R1_001.fastq.gz 559_S18_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//559_S18_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//559_S18_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5088859 Both Surviving: 4325763 (85.00%) Forward Only Surviving: 763025 (14.99%) Reverse Only Surviving: 0 (0.00%) Dropped: 71 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 564_S19_L001_R1_001.fastq.gz 564_S19_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//564_S19_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//564_S19_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4872899 Both Surviving: 3751779 (76.99%) Forward Only Surviving: 1121068 (23.01%) Reverse Only Surviving: 0 (0.00%) Dropped: 52 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 569_S20_L001_R1_001.fastq.gz 569_S20_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//569_S20_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//569_S20_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5481691 Both Surviving: 4407270 (80.40%) Forward Only Surviving: 1074368 (19.60%) Reverse Only Surviving: 0 (0.00%) Dropped: 53 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 574_S21_L001_R1_001.fastq.gz 574_S21_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//574_S21_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//574_S21_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4450501 Both Surviving: 3429154 (77.05%) Forward Only Surviving: 1021305 (22.95%) Reverse Only Surviving: 0 (0.00%) Dropped: 42 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 579_S22_L001_R1_001.fastq.gz 579_S22_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//579_S22_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//579_S22_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5662653 Both Surviving: 4594048 (81.13%) Forward Only Surviving: 1068548 (18.87%) Reverse Only Surviving: 0 (0.00%) Dropped: 57 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 584_S23_L001_R1_001.fastq.gz 584_S23_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//584_S23_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//584_S23_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5161643 Both Surviving: 4228780 (81.93%) Forward Only Surviving: 932816 (18.07%) Reverse Only Surviving: 0 (0.00%) Dropped: 47 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 589_S24_L001_R1_001.fastq.gz 589_S24_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//589_S24_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//589_S24_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5662804 Both Surviving: 4512667 (79.69%) Forward Only Surviving: 1150088 (20.31%) Reverse Only Surviving: 0 (0.00%) Dropped: 49 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 594_S37_L001_R1_001.fastq.gz 594_S37_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//594_S37_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//594_S37_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4997865 Both Surviving: 4100265 (82.04%) Forward Only Surviving: 897569 (17.96%) Reverse Only Surviving: 0 (0.00%) Dropped: 31 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 599_S38_L001_R1_001.fastq.gz 599_S38_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//599_S38_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//599_S38_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5623918 Both Surviving: 4452838 (79.18%) Forward Only Surviving: 1171033 (20.82%) Reverse Only Surviving: 0 (0.00%) Dropped: 47 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 604_S39_L001_R1_001.fastq.gz 604_S39_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//604_S39_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//604_S39_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5018098 Both Surviving: 4038220 (80.47%) Forward Only Surviving: 979841 (19.53%) Reverse Only Surviving: 0 (0.00%) Dropped: 37 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 609_S40_L001_R1_001.fastq.gz 609_S40_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//609_S40_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//609_S40_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4221632 Both Surviving: 3503164 (82.98%) Forward Only Surviving: 718439 (17.02%) Reverse Only Surviving: 0 (0.00%) Dropped: 29 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 614_S41_L001_R1_001.fastq.gz 614_S41_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//614_S41_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//614_S41_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5396010 Both Surviving: 4512660 (83.63%) Forward Only Surviving: 883305 (16.37%) Reverse Only Surviving: 0 (0.00%) Dropped: 45 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 619_S42_L001_R1_001.fastq.gz 619_S42_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//619_S42_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//619_S42_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 6799634 Both Surviving: 5761221 (84.73%) Forward Only Surviving: 1038359 (15.27%) Reverse Only Surviving: 0 (0.00%) Dropped: 54 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 624_S43_L001_R1_001.fastq.gz 624_S43_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//624_S43_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//624_S43_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 7249239 Both Surviving: 5816951 (80.24%) Forward Only Surviving: 1432230 (19.76%) Reverse Only Surviving: 0 (0.00%) Dropped: 58 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 629_S44_L001_R1_001.fastq.gz 629_S44_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//629_S44_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//629_S44_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 2630650 Both Surviving: 2092263 (79.53%) Forward Only Surviving: 538361 (20.46%) Reverse Only Surviving: 0 (0.00%) Dropped: 26 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 634_S45_L001_R1_001.fastq.gz 634_S45_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//634_S45_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//634_S45_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 3136238 Both Surviving: 2656625 (84.71%) Forward Only Surviving: 479592 (15.29%) Reverse Only Surviving: 0 (0.00%) Dropped: 21 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 639_S46_L001_R1_001.fastq.gz 639_S46_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//639_S46_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//639_S46_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5760199 Both Surviving: 4805924 (83.43%) Forward Only Surviving: 954021 (16.56%) Reverse Only Surviving: 0 (0.00%) Dropped: 254 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 644_S47_L001_R1_001.fastq.gz 644_S47_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//644_S47_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//644_S47_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5538340 Both Surviving: 4452028 (80.39%) Forward Only Surviving: 1086286 (19.61%) Reverse Only Surviving: 0 (0.00%) Dropped: 26 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 649_S73_L001_R1_001.fastq.gz 649_S73_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//649_S73_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//649_S73_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 6144472 Both Surviving: 5306662 (86.36%) Forward Only Surviving: 837759 (13.63%) Reverse Only Surviving: 0 (0.00%) Dropped: 51 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 684_S48_L001_R1_001.fastq.gz 684_S48_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//684_S48_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//684_S48_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5154682 Both Surviving: 4491080 (87.13%) Forward Only Surviving: 663571 (12.87%) Reverse Only Surviving: 0 (0.00%) Dropped: 31 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 704_S74_L001_R1_001.fastq.gz 704_S74_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//704_S74_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//704_S74_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5252824 Both Surviving: 4426649 (84.27%) Forward Only Surviving: 826141 (15.73%) Reverse Only Surviving: 0 (0.00%) Dropped: 34 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 719_S61_L001_R1_001.fastq.gz 719_S61_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//719_S61_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//719_S61_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4700970 Both Surviving: 3480084 (74.03%) Forward Only Surviving: 1220823 (25.97%) Reverse Only Surviving: 0 (0.00%) Dropped: 63 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 739_S75_L001_R1_001.fastq.gz 739_S75_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//739_S75_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//739_S75_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4804562 Both Surviving: 4073654 (84.79%) Forward Only Surviving: 730870 (15.21%) Reverse Only Surviving: 0 (0.00%) Dropped: 38 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 784_S76_L001_R1_001.fastq.gz 784_S76_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//784_S76_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//784_S76_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5272865 Both Surviving: 4657543 (88.33%) Forward Only Surviving: 615284 (11.67%) Reverse Only Surviving: 0 (0.00%) Dropped: 38 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 804_S62_L001_R1_001.fastq.gz 804_S62_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//804_S62_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//804_S62_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4418091 Both Surviving: 4157843 (94.11%) Forward Only Surviving: 260188 (5.89%) Reverse Only Surviving: 0 (0.00%) Dropped: 60 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 809_S63_L001_R1_001.fastq.gz 809_S63_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//809_S63_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//809_S63_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5494900 Both Surviving: 5094913 (92.72%) Forward Only Surviving: 399914 (7.28%) Reverse Only Surviving: 0 (0.00%) Dropped: 73 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 819_S77_L001_R1_001.fastq.gz 819_S77_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//819_S77_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//819_S77_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5433254 Both Surviving: 4708632 (86.66%) Forward Only Surviving: 724585 (13.34%) Reverse Only Surviving: 0 (0.00%) Dropped: 37 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 849_S64_L001_R1_001.fastq.gz 849_S64_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//849_S64_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//849_S64_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5191082 Both Surviving: 4671799 (90.00%) Forward Only Surviving: 519244 (10.00%) Reverse Only Surviving: 0 (0.00%) Dropped: 39 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 859_S65_L001_R1_001.fastq.gz 859_S65_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//859_S65_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//859_S65_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5788140 Both Surviving: 5167369 (89.28%) Forward Only Surviving: 620697 (10.72%) Reverse Only Surviving: 0 (0.00%) Dropped: 74 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 874_S78_L001_R1_001.fastq.gz 874_S78_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//874_S78_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//874_S78_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4553926 Both Surviving: 3823861 (83.97%) Forward Only Surviving: 730031 (16.03%) Reverse Only Surviving: 0 (0.00%) Dropped: 34 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 879_S66_L001_R1_001.fastq.gz 879_S66_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//879_S66_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//879_S66_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5254058 Both Surviving: 4775920 (90.90%) Forward Only Surviving: 478079 (9.10%) Reverse Only Surviving: 0 (0.00%) Dropped: 59 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 914_S79_L001_R1_001.fastq.gz 914_S79_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//914_S79_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//914_S79_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5133440 Both Surviving: 4416400 (86.03%) Forward Only Surviving: 716995 (13.97%) Reverse Only Surviving: 0 (0.00%) Dropped: 45 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 919_S80_L001_R1_001.fastq.gz 919_S80_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//919_S80_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//919_S80_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4895222 Both Surviving: 4333649 (88.53%) Forward Only Surviving: 561537 (11.47%) Reverse Only Surviving: 0 (0.00%) Dropped: 36 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 929_S67_L001_R1_001.fastq.gz 929_S67_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//929_S67_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//929_S67_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5804736 Both Surviving: 5080312 (87.52%) Forward Only Surviving: 724358 (12.48%) Reverse Only Surviving: 0 (0.00%) Dropped: 66 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 934_S68_L001_R1_001.fastq.gz 934_S68_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//934_S68_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//934_S68_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5541043 Both Surviving: 4714456 (85.08%) Forward Only Surviving: 826534 (14.92%) Reverse Only Surviving: 0 (0.00%) Dropped: 53 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 959_S69_L001_R1_001.fastq.gz 959_S69_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//959_S69_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//959_S69_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 3827541 Both Surviving: 3130379 (81.79%) Forward Only Surviving: 697130 (18.21%) Reverse Only Surviving: 0 (0.00%) Dropped: 32 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 964_S70_L001_R1_001.fastq.gz 964_S70_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//964_S70_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//964_S70_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 6204189 Both Surviving: 4960848 (79.96%) Forward Only Surviving: 1243282 (20.04%) Reverse Only Surviving: 0 (0.00%) Dropped: 59 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ 9_S8_L001_R1_001.fastq.gz 9_S8_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//9_S8_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//9_S8_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5075185 Both Surviving: 3566448 (70.27%) Forward Only Surviving: 1508691 (29.73%) Reverse Only Surviving: 0 (0.00%) Dropped: 46 (0.00%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ Undetermined_S0_L001_R1_001.fastq.gz Undetermined_S0_L001_R2_001.fastq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//Undetermined_S0_L001_R1_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s1_se /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//Undetermined_S0_L001_R2_001.qc.fq.gz /home/ywdong/Data/u2cgprod7q/Unaligned/Project_AWYD_L1_MKS001/Trim//s2_se ILLUMINACLIP:/home/ywdong/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:40:15 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 10290702 Both Surviving: 9048606 (87.93%) Forward Only Surviving: 1241988 (12.07%) Reverse Only Surviving: 0 (0.00%) Dropped: 108 (0.00%)
+TrimmomaticPE: Completed successfully
