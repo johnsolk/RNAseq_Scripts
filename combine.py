@@ -44,12 +44,13 @@ def combine_files(merge_dictionary,basedir,combine_dir):
 def find_files_to_merge(fileslist,basedir):
 	filestomergelist={}
         for filename in fileslist:
-		fields = filename.split("_")
-		sample = fields[0]
-		if sample in filestomergelist:
-			filestomergelist[sample].append(basedir+filename)
-		else:
-			filestomergelist[sample] = [basedir+filename]
+		if filename != "sbatch_files":
+			fields = filename.split("_")
+			sample = fields[0]
+			if sample in filestomergelist:
+				filestomergelist[sample].append(basedir+filename)
+			else:
+				filestomergelist[sample] = [basedir+filename]
 	return filestomergelist
 
 basedir="/home/ywdong/Data/Project_AWYD_alllanes/"

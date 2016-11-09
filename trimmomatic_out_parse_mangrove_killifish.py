@@ -5,28 +5,24 @@ import argparse
 
 
 def get_sample_dictionary(trim_out_file):
-    sample_dictionary={}
-    with open(trim_out_file) as outfile:
-		for line in outfile:
-			line_split=line.split()
-			if len(line_split) >= 1:
-				if line_split[0].startswith("TrimmomaticPE:") and line_split[1].startswith("Started"):
-					next_line = outfile.next()
-					line_data=next_line.split()
-					sample="_".join(line_data[0].split("_")[0:2])
-					print sample
-					for i in range(0,4):
-						next_line=outfile.next()
-						line_data=next_line.split()
-						if line_data[0].startswith("Input"):
-							num_reads_input=line_data[3]
-							print num_reads_input
-							num_reads_surviving=line_data[6]
-							print num_reads_surviving
-							perc_reads_surviving=line_data[7][1:-2]
-							print perc_reads_surviving
-							sample_dictionary[sample]=[num_reads_input,num_reads_surviving,perc_reads_surviving]						
-    return sample_dictionary
+	sample_dictionary={}
+	outfile = open(trim_out_file)
+	lines = outfile.readlines()
+	outfile.close()
+	for line in lines:
+		line_split = line.split()
+		if line_split[0].endswith(".fastq.gz"):
+			sample="_".join(line_split[0].split("_")[0:1])
+			print sample
+		if line_split[0].startswith("Input"):
+			num_reads_input=line_split[3]
+			print num_reads_input
+			num_reads_surviving=line_split[6]
+			print num_reads_surviving
+			perc_reads_surviving=line_split[7][1:-2]
+			print perc_reads_surviving
+			sample_dictionary[sample]=[num_reads_input,num_reads_surviving,perc_reads_surviving]						
+    	return sample_dictionary
 
 def trim_table(trim_out_file,trim_table_filename):
     header=["Sample","Input Reads","Surviving Reads","Percent Surviving"]
