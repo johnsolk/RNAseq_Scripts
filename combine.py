@@ -24,7 +24,7 @@ def combine_files(merge_dictionary,basedir,combine_dir):
 		print sample,"R2 files:",R2
 		fields_read = R1[0].split("/")[5].split("_")
 		sample = fields_read[0]
-		extension = fields_read[4]
+		extension = fields_read[4][3:]
 		newfilename_R1=combine_dir+sample+"_R1"+extension
 		newfilename_R2=combine_dir+sample+"_R2"+extension
 		files_string_R1=" ".join(R1)
@@ -38,7 +38,7 @@ def combine_files(merge_dictionary,basedir,combine_dir):
 		combine_command=[combine_string_R1,combine_string_R2]
 		module_load_list=[""]
 		process_name="combine"
-		clusterfunc.sbatch_file(basedir,process_name,module_load_list,sample,combine_command)
+		#clusterfunc.sbatch_file(basedir,process_name,module_load_list,sample,combine_command)
 
 
 def find_files_to_merge(fileslist,basedir):

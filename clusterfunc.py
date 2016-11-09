@@ -39,7 +39,6 @@ def sbatch_file(basedir,process_name,module_name_list,filename,process_string):
 	 #sbatch_file.write("#SBATCH -p high"+"\n")
 	 sbatch_file.write("#SBATCH -t 04:00:00"+"\n")
 	 sbatch_file.write("#SBATHC -p med\n")
-	 sbatch_file.write("#SBATCH --mail-user=ljcohen@ucdavis.edu"+"\n")
          sbatch_file.write("#SBATCH --cpus-per-task=2"+"\n")
 	 sbatch_file.write("#SBATCH --mem=8GB"+"\n")
          for module_string in module_load:
@@ -50,6 +49,6 @@ def sbatch_file(basedir,process_name,module_name_list,filename,process_string):
              print string
     sbatch_string="sbatch "+sbatch_filename
     print sbatch_string
-    #s=subprocess.Popen(sbatch_string,shell=True)
-    #s.wait()
+    s=subprocess.Popen(sbatch_string,shell=True)
+    s.wait()
     os.chdir(working_dir)
