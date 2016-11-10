@@ -12,7 +12,8 @@ def get_sample_dictionary(trim_out_file):
 	for line in lines:
 		line_split = line.split()
 		if line_split[0].startswith("TrimmomaticPE:") and line_split[1].startswith("Started"):
-			sample=line_split[4].split("/")[7].split("_")[0]
+			print line_split[4].split("/")
+			sample=line_split[4].split("/")[9].split("_")[0]
 			print sample
 		if line_split[0].startswith("Input"):
 			num_reads_input=line_split[3]
