@@ -29,8 +29,8 @@ def combine_files(merge_dictionary,basedir,combine_dir):
 		newfilename_R2=combine_dir+sample+"_R2"+extension
 		files_string_R1=" ".join(R1)
 		files_string_R2=" ".join(R2)
-		combine_string_R1="zcat "+files_string_R1+" > "+newfilename_R1
-		combine_string_R2="zcat "+files_string_R2+" > "+newfilename_R2
+		combine_string_R1="cat "+files_string_R1+" > "+newfilename_R1
+		combine_string_R2="cat "+files_string_R2+" > "+newfilename_R2
 		print combine_string_R1
 		print combine_string_R2
 		#s=subprocess.Popen(combine_string,shell=True)
